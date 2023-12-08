@@ -1,5 +1,7 @@
 # RAPIQUE
-UGC videos test based on Rapid and Accurate Video Quality Evaluator (RAPIQUE).
+UGC videos test based on Rapid and Accurate Video Quality Evaluator (RAPIQUE). 
+
+This project is based on [vztu/RAPIQUE](https://github.com/vztu/RAPIQUE)
 
 ## Requirements
 
